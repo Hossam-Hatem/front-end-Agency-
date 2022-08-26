@@ -1,0 +1,22 @@
+.n1{background: #EDF5F8;
+
+}
+.n2{
+    font-size: 26px
+}
+.p1{
+    font-size: 107%
+}
+.buttoncolor{
+    background-color: #571F9C;
+    color: white;
+    padding: 10px 30px 10px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
