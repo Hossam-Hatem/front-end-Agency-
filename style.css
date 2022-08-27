@@ -1,11 +1,32 @@
 .n1{background: #EDF5F8;
 
 }
+.c1{
+    background:#111111;
+    color: white;
+}
+.c2{
+    color: gray;
+}
 .n2{
-    font-size: 26px
+    font-size: 25px
 }
 .p1{
     font-size: 107%
+}
+.t{
+    text-decoration: none;
+}
+.t2{
+    text-decoration: none;
+    color: #111111;
+}
+.l{
+    background-color: #ffffff;
+    left: 0px;
+    height: 2px;
+    width: 30px;
+    top: -24px;
 }
 .buttoncolor{
     background-color: #571F9C;
@@ -15,8 +36,49 @@
     font-family: 'Montserrat', sans-serif;
 
 }
+.f1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.f2{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.h1{
+    width:50%;
+}
 
 .center {
     display: block;
     margin: 0 auto;
 }
+
+
+.n3{
+    font-size: 59px
+}
+
+.n4{
+    font-size: 35px
+}
+.n5{
+    font-size: 19px
+}
+
+.n6{
+    font-size: 37px;
+}
+
+.p2{
+    letter-spacing: 1.6px 
+
+}
+
+.imgv{
+    border-radius: 50%;
+}
+
+.strong {
+    font-weight: bold;
+}
+
